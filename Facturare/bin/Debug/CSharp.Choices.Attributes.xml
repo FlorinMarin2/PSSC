@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CSharp.Choices.Attributes</name>
+    </assembly>
+    <members>
+        <member name="T:CSharp.Choices.AsChoiceAttribute">
+            <summary>
+            Add to a partial class to create C# choices
+            The class needs to contain a nested interface and classes and or records which inherit that interface
+            
+            This attribute is used by CSharp.Choices.Generators package to generate the files.
+            </summary>
+        </member>
+    </members>
+</doc>
